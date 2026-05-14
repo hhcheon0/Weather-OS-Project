@@ -16,6 +16,7 @@
 
 Bash
 git switch -c feature/add-auth
+
 2. 작업 및 커밋
 로컬 작업 후 원격에 Push합니다.
 
@@ -25,6 +26,7 @@ Push로 원격 백업 및 공유
 
 Bash
 git push origin feature/add-auth
+
 3. PR 생성 (개설)
 도움 요청 또는 병합 준비가 완료된 상태입니다.
 
